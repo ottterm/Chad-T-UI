@@ -1,0 +1,3 @@
+Enable Data=su -c "svc data enable"
+Disable Data=su -c "svc data disable"
+shell=su;export PATH=$PATH:/data/data/com.termux/files/usr/bin/
